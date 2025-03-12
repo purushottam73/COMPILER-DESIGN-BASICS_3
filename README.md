@@ -53,3 +53,4 @@ The back-end takes the intermediate representation and converts it into machine 
 Compiler design is a fundamental aspect of computer science that ensures the smooth translation of high-level code into machine-executable instructions. A well-structured compiler improves program efficiency, portability, and overall performance, making it a crucial component of software development.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/c40b93f2-cb93-4a5e-bb2b-cdf1339ed7b3)
